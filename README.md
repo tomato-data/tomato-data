@@ -4,25 +4,25 @@ Backend developer who builds side projects to answer real questions.
 
 I believe **benchmarks beat opinions**, **simplicity beats cleverness**, and **the bottleneck is never the framework**.
 
-![Obsidian Graph View](https://github.com/user-attachments/assets/a460887a-624a-4980-a304-496626c2a891)
+### What I'm Working On
+
+- Evolving my **TDD workflow** — combining design trade-off analysis, 46 object-design rules, and pattern-based refactoring signals
+- Turning technical books into **operational rule sets** I can apply during code review (Object Design Style Guide: 46 rules, SQL Cookbook: 28 rules)
+- Managing 4,000+ notes in Obsidian with a custom knowledge promotion pipeline — dev knowledge (Backend, DevOps, DB, AI) at the core, surrounded by book reviews, video logs, a Mind Compiler for refining raw thoughts, and a Logic Forge for sharpening arguments
+
+---
+
+![Obsidian Graph View](https://github.com/user-attachments/assets/f803ebba-0f7c-42a7-aa4a-3a12d4fcab83)
 
 ---
 
 ### Recent Projects
 
-| Project | What & Why | Stack |
-|---------|-----------|-------|
-| [Backend Benchmark Lab](https://github.com/tomato-data/Backend-Benchmark-Lab) | 5 frameworks, 26 scenarios, 10-run averages. Same logic, different implementations. | FastAPI, Django, Express, Rails, k6, Docker, Prometheus |
-| [Household Ledger](https://github.com/tomato-data/household_ledger) | Personal finance app. Migrated from React + FastAPI + PostgreSQL to a single Rails 8 monolith. Zero external dependencies. | Rails 8, SQLite, Hotwire, Terraform, Proxmox |
-| [Redis Pattern Lab](https://github.com/tomato-data/Redis-Pattern-Lab) | 12 production-grade Redis patterns, benchmarked against SQLite. | FastAPI, Redis, Docker |
-
----
-
-### What I'm Working On
-
-- Evolving my **TDD workflow** — combining design trade-off analysis, 46 object-design rules, and pattern-based refactoring signals
-- Turning technical books into **operational rule sets** I can apply during code review (Object Design Style Guide: 46 rules, SQL Cookbook: 28 rules)
-- Managing 3,200+ notes in Obsidian with a custom knowledge promotion pipeline
+| Project                                                                       | What & Why                                                                                                                 | Stack                                                   |
+| ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| [Backend Benchmark Lab](https://github.com/tomato-data/Backend-Benchmark-Lab) | 5 frameworks, 26 scenarios, 10-run averages. Same logic, different implementations.                                        | FastAPI, Django, Express, Rails, k6, Docker, Prometheus |
+| [Household Ledger](https://github.com/tomato-data/household_ledger)           | Personal finance app. Migrated from React + FastAPI + PostgreSQL to a single Rails 8 monolith. Zero external dependencies. | Rails 8, SQLite, Hotwire, Terraform, Proxmox            |
+| [Redis Pattern Lab](https://github.com/tomato-data/Redis-Pattern-Lab)         | 12 production-grade Redis patterns, benchmarked against SQLite.                                                            | FastAPI, Redis, Docker                                  |
 
 ---
 
