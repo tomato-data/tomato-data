@@ -4,7 +4,7 @@ Backend developer who builds side projects to answer real questions.
 
 I believe **benchmarks beat opinions**, **simplicity beats cleverness**, and **the bottleneck is never the framework**.
 
-![Obsidian Graph View](https://github.com/user-attachments/assets/6b296c07-3036-4c1b-a706-177c3900b124)
+![Obsidian Graph View](https://github.com/user-attachments/assets/a460887a-624a-4980-a304-496626c2a891)
 
 ---
 
