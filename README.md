@@ -20,6 +20,7 @@ I believe **benchmarks beat opinions**, **simplicity beats cleverness**, and **t
 
 | Project                                                                       | What & Why                                                                                                                 | Stack                                                   |
 | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| [voxprep](https://github.com/tomato-data/voxprep) *(in progress)*             | GPT-SoVITS preprocessing as a proper CLI, with the interactive `review` step upstream never had. 10-phase TDD build, currently at Phase 02. | Python, Typer, Rich, pytest, uv |
 | [Checkout Engine](https://github.com/tomato-data/checkout-engine)             | A 9-phase TDD evolution where design patterns arrive only when Forces require them. Methodology validation over 3 days, not a product. | Python, FastAPI, pytest |
 | [Backend Benchmark Lab](https://github.com/tomato-data/Backend-Benchmark-Lab) | 5 frameworks, 26 scenarios, 10-run averages. Same logic, different implementations.                                        | FastAPI, Django, Express, Rails, k6, Docker, Prometheus |
 | [Household Ledger](https://github.com/tomato-data/household_ledger)           | Personal finance app. Migrated from React + FastAPI + PostgreSQL to a single Rails 8 monolith. Zero external dependencies. | Rails 8, SQLite, Hotwire, Terraform, Proxmox            |
@@ -42,5 +43,7 @@ I believe **benchmarks beat opinions**, **simplicity beats cleverness**, and **t
 **Exploring**
 
 ![Ruby on Rails](https://img.shields.io/badge/Rails-D30001?style=flat&logo=rubyonrails&logoColor=white)
+![Typer](https://img.shields.io/badge/Typer-009485?style=flat&logo=typer&logoColor=white)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat&logo=uv&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Love2D](https://img.shields.io/badge/Love2D-E74A99?style=flat&logo=love&logoColor=white)
