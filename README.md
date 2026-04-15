@@ -2,7 +2,7 @@
 
 Backend developer who builds side projects to answer real questions.
 
-I believe **benchmarks beat opinions**, **simplicity beats cleverness**, and **the bottleneck is never the framework**.
+I believe **benchmarks beat opinions**, **simplicity beats cleverness**, and **pain beats doctrine**.
 
 ### What I'm Working On
 
